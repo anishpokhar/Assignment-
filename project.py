@@ -1,3 +1,4 @@
+#QUIZE game using Python
 def quiz_game():
     # List of questions, choices, and correct answers
     questions = [
